@@ -1,0 +1,23 @@
+.MainCountian {
+  display: flex;
+  width: 100%;
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.img {
+  margin-right: 50px;
+  width: 20%;
+}
+
+.ProductInformation {
+  margin-right: 100px;
+  width: 40%;
+}
+.ProductDescription {
+  margin-top: 50px;
+}
+.productName h1 {
+  font-size: 15px;
+  text-align: center;
+}
