@@ -10,3 +10,19 @@
 .cartContainer h1 {
   text-align: center;
 }
+.OrderSummary {
+  margin-left: 5px;
+}
+td.tableQty {
+  margin: 14px;
+  padding: 5px 100px;
+}
+.total-row {
+  font-size: 20px;
+  color: deeppink;
+  font-weight: bold;
+}
+.cartContainer {
+  display: block;
+  text-align: center;
+}
